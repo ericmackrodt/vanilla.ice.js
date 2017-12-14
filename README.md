@@ -5,3 +5,19 @@ Components:
 ----------
 
     <NetscapeNow />
+
+Future Components:
+------------------
+
+    <InternetExplorerCompatible />
+    <Frameset />
+    <Marquee />
+    <Guestbook />
+    <WebRing />
+    <EmailSpinner />
+    <UnderConstruction />
+    <YouAre1000thVisitor />
+    <VisitCounter />
+    <GeocitiesBanner />
+    <BrokenFlashPlayer />
+    <WelcomeAlert />
