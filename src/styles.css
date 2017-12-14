@@ -1,0 +1,24 @@
+.button {
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    border: 3px solid #097cd0;
+    color: white;
+    background-color: #108ee9;
+    text-align: center;
+    user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button:hover {
+    background-color: #49a9ee;
+    border-color: #3f93cf;
+  }
+  
+  .button-image {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    font-size: 34px;
+  }
